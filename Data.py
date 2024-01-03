@@ -48,9 +48,8 @@ class Data:
 <b>Hi there this is a file store bot which is convert any file to link...
 then you can access this file through a specific link...!
 
- • Creator: <a href='https://t.me/Its_Oreki_Hotarou'>Hōᴛᴀʀō Oʀᴇᴋɪ</a>
- • My Channel: <a href='https://t.me/Anime_X_Hunters'>Aɴɪᴍᴇ x Hᴜɴᴛᴇʀꜱ</a>
- • Source Code: <a href='https://github.com/Sahil0976'>Nᴏᴢᴇʟ Sɪʟᴠᴀ</a>
+ • Creator: <a href='https://t.me/arindam69x'>Arindam</a>
+ • My Channel: <a href='https://t.me/Anime_Sprizen'>Anime Sprizen</a>
 
-👨‍💻 Develoved by </b><a href='https://t.me/Lunatic0de/101'>@Lunatic0de</a>
+👨‍💻 Develoved by </b><a href='https://t.me/arindam69x'>Arindam</a>
 """
