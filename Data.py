@@ -23,9 +23,8 @@ class Data:
  ├ /speedtest - To test the bot server speed
  └ /broadcast - To send a broadcast message to the bot user
 
-👨‍💻 Develoved by </b><a href='https://t.me/Its_Oreki_Hotarou'>Hōᴛᴀʀō Oʀᴇᴋɪ</a>
+👨‍💻 Develoved by </b><a href='https://t.me/arindam69x'>Arindam</a>
 """
-
     close = [
         [InlineKeyboardButton("ᴄʟᴏꜱᴇ", callback_data="close")]
     ]
