@@ -91,15 +91,15 @@ def fsub_button(client, message):
     if FORCE_SUB_CHANNEL and FORCE_SUB_CHANNEL:
         buttons = [
             [
-                InlineKeyboardButton(text="ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ 1", url=client.invitelink),
-                InlineKeyboardButton(text="ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ 2", url=client.invitelink2),
+                InlineKeyboardButton(text="⚡ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ 1⚡", url=client.invitelink),
+                InlineKeyboardButton(text="⚡ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ 2⚡", url=client.invitelink2),
             ],
         ]
         try:
             buttons.append(
                 [
                     InlineKeyboardButton(
-                        text="ᴛʀʏ ᴀɢᴀɪɴ",
+                        text="😴ᴛʀʏ ᴀɢᴀɪɴ😴",
                         url=f"https://t.me/{client.username}?start={message.command[1]}",
                     )
                 ]
