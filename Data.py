@@ -14,16 +14,12 @@ class Data:
  └ /uptime - To see bot status
  
  ❏ Commands For BOT Admins
- ├ /logs - To view bot logs
- ├ /setvar - To set var with dibot command
- ├ /delvar - To remove var with dibot command
- ├ /getvar - To see one of the var with dibot command
  ├ /users - To view bot user statistics
  ├ /batch - To link more than one file
  ├ /speedtest - To test the bot server speed
  └ /broadcast - To send a broadcast message to the bot user
 
-👨‍💻 Develoved by </b><a href='https://t.me/arindam69x'>Arindam</a>
+👨‍💻 Develoved by </b><a href='https://t.me/JinWooownerinfo'>Bot Owner info</a>
 """
     close = [
         [InlineKeyboardButton("ᴄʟᴏꜱᴇ", callback_data="close")]
@@ -47,8 +43,7 @@ class Data:
 <b>Hi there this is a file store bot which is convert any file to link...
 then you can access this file through a specific link...!
 
- • Creator: <a href='https://t.me/arindam69x'>Arindam</a>
- • My Channel: <a href='https://t.me/Anime_Sprizen'>Anime Sprizen</a>
+ • Creator: <a href='https://t.me/JinWooownerinfo'>Bot Owener info</a>
 
-👨‍💻 Develoved by </b><a href='https://t.me/arindam69x'>Arindam</a>
+👨‍💻 Develoved by </b><a href='https://t.me/JinWooownerinfo'>Bot Owner info</a>
 """
